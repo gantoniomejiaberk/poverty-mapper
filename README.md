@@ -10,8 +10,8 @@ The project utilizes transfer learning on pretrained convolutional neural networ
 The code in this repository is available for public use without restrictions.
 
 ### Recommended Citation
-Ayele, S. Mejia, G., Zorrilla, L. (2021). poverty-mapper. (version XX)
-https://github.com/sophiaayele/poverty-mapper
+Ayele, S. Mejia, G., Zorrilla, L. (2021). poverty-mapper.
+https://github.com/gantoniomejiaberk/poverty-mapper
 
 ### Table of Contents
 - **sentinel2_data**: Download global, cloud-free composite satellite imagery from the European Commission Joint Research Centre Data Catalogue: https://data.jrc.ec.europa.eu/dataset/0bd1dfab-e311-4046-8911-c54a8750df79. Divide into 224x224 tiles and check against UTM zone, country boundaries, and capture image meta data, including center and corner coordinates. 
